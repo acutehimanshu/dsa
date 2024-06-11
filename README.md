@@ -4,6 +4,6 @@
 
 2) Linear Sort 
 
-3) Insertion Sort
+3) Insertion Sort 
 
 4) Selction Sort
